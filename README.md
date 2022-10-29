@@ -1,3 +1,5 @@
 # card-rocketseat
 
-- Card from a rocketseta event
+- Card from a rocketset event
+
+
